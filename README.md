@@ -1,7 +1,15 @@
+<div align="center">
+
 # 🛡️ Athena AI
 
-> Enterprise-grade cybersecurity AI assistant powered by Qwen3.6-27B, Cyber LoRA, Retrieval-Augmented Generation (RAG), and a large-scale cybersecurity knowledge base.
+<img src="images/banner.png" alt="Athena AI" width="100%">
 
+![GitHub Repo Stars](https://img.shields.io/github/stars/YOUR_USERNAME/Anthena-AI?style=for-the-badge) ![Focus](https://img.shields.io/badge/Focus-Cybersecurity-darkred?style=for-the-badge) ![Model](https://img.shields.io/badge/Model-Qwen3.6--27B-blue?style=for-the-badge) ![Training](https://img.shields.io/badge/Training-QLoRA%204--Bit-gold?style=for-the-badge) ![Vector DB](https://img.shields.io/badge/VectorDB-Qdrant-darkgreen?style=for-the-badge) ![Architecture](https://img.shields.io/badge/Architecture-RAG-purple?style=for-the-badge) ![Knowledge Base](https://img.shields.io/badge/KnowledgeBase-95GB+-orange?style=for-the-badge) ![Status](https://img.shields.io/badge/Status-Active%20Development-brightgreen?style=for-the-badge) ![Purpose](https://img.shields.io/badge/Purpose-Educational-blueviolet?style=for-the-badge) ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
+
+
+**Enterprise-grade cybersecurity AI assistant powered by Qwen3.6-27B, Cyber LoRA, Retrieval-Augmented Generation (RAG), and a large-scale cybersecurity knowledge base.**
+
+</div>
 ---
 
 # 📖 Overview
