@@ -446,6 +446,7 @@ MIT License
   Computer Science Student<br>
   Cybersecurity Researcher
   AI Developer
+  ⭐ If you find this project useful, consider starring the repository
 </p>
 
-⭐ If you find this project useful, consider starring the repository.
+
