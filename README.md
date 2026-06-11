@@ -1,4 +1,4 @@
-# 🛡️ Anthena AI
+# 🛡️ Athena AI
 
 > Enterprise-grade cybersecurity AI assistant powered by Qwen3.6-27B, Cyber LoRA, Retrieval-Augmented Generation (RAG), and a large-scale cybersecurity knowledge base.
 
@@ -6,7 +6,7 @@
 
 # 📖 Overview
 
-Anthena AI is an advanced cybersecurity-focused Large Language Model (LLM) platform designed to assist security researchers, penetration testers, SOC analysts, students, and cybersecurity professionals.
+Athena AI is an advanced cybersecurity-focused Large Language Model (LLM) platform designed to assist security researchers, penetration testers, SOC analysts, students, and cybersecurity professionals.
 
 The project combines:
 
@@ -16,7 +16,7 @@ The project combines:
 - Retrieval-Augmented Generation (RAG)
 - Large-scale Cybersecurity Knowledge Base
 
-Anthena AI is designed to provide intelligent cybersecurity assistance through contextual reasoning, semantic search, threat intelligence retrieval, vulnerability analysis, and security research support.
+Athena AI is designed to provide intelligent cybersecurity assistance through contextual reasoning, semantic search, threat intelligence retrieval, vulnerability analysis, and security research support.
 
 ---
 
@@ -53,7 +53,7 @@ Anthena AI is designed to provide intelligent cybersecurity assistance through c
                                  │
                                  ▼
                    ┌────────────────────────┐
-                   │   Anthena AI Interface │
+                   │   Athena AI Interface │
                    └────────────┬───────────┘
                                 │
                                 ▼
@@ -168,7 +168,7 @@ Framework: Unsloth
 
 # 🔍 Retrieval-Augmented Generation (RAG)
 
-Anthena AI uses Retrieval-Augmented Generation (RAG) to provide factual and up-to-date cybersecurity knowledge.
+Athena AI uses Retrieval-Augmented Generation (RAG) to provide factual and up-to-date cybersecurity knowledge.
 
 ## RAG Flow
 
@@ -240,7 +240,7 @@ Distance Metric: Cosine
 # 📂 Project Structure
 
 ```text
-Anthena-AI/
+Athena-AI/
 │
 ├── app.py
 ├── requirements.txt
@@ -273,9 +273,9 @@ Anthena-AI/
 # ⚙ Installation
 
 ```bash
-git clone https://github.com/vrunalp199/Anthena-AI
+git clone https://github.com/vrunalp199/Athena-AI
 
-cd Anthena-AI
+cd Athena-AI
 
 python -m venv venv
 ```
@@ -354,7 +354,7 @@ Internet
 Flask API
     │
     ▼
-Anthena AI Core
+Athena AI Core
     │
     ├── Memory System
     │
@@ -415,7 +415,7 @@ Anthena AI Core
 
 # ⚠ Disclaimer
 
-Anthena AI is intended for educational purposes, cybersecurity research, defensive security operations, and authorized security testing only.
+Athena AI is intended for educational purposes, cybersecurity research, defensive security operations, and authorized security testing only.
 
 Users are responsible for complying with all applicable laws and regulations.
 
