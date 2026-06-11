@@ -273,7 +273,7 @@ Anthena-AI/
 # ⚙ Installation
 
 ```bash
-git clone [https://github.com/vrunalp199/Anthena-AI]
+git clone https://github.com/vrunalp199/Anthena-AI
 
 cd Anthena-AI
 
