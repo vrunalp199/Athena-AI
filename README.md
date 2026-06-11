@@ -444,8 +444,8 @@ MIT License
 <p align="center">
   <b>Vrunal Patil</b><br>
   Computer Science Student<br>
-  Cybersecurity Researcher
-  AI Developer
+  Cybersecurity Researcher, -
+  AI Developer<br>
   ⭐ If you find this project useful, consider starring the repository
 </p>
 
