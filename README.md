@@ -435,12 +435,17 @@ MIT License
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
-Vrunal
+<p align="center">
+  <img src="https://github.com/vrunalp199.png" width="150">
+</p>
 
-Computer Science Student
-Cybersecurity Researcher
-AI Developer
+<p align="center">
+  <b>Vrunal Patil</b><br>
+  Computer Science Student<br>
+  Cybersecurity Researcher
+  AI Developer
+</p>
 
 ⭐ If you find this project useful, consider starring the repository.
