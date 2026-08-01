@@ -384,7 +384,7 @@ Athena AI Core
 |       Metric      |      Target     |
 |-------------------|-----------------|
 |       Model       |   Qwen3.6-27B   |
-|      Dataset      |      95+ GB     |
+|      Dataset      |      10+ GB     |
 |     Embeddings    |     GE-Large    |
 |     Vector DB     |      Qdrant     |
 | Retrieval Latency |     < 2 sec     |
